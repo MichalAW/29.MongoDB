@@ -1,0 +1,22 @@
+{
+  "name": "29.MongoDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichalAW/29.MongoDB.git"
+  },
+  "keywords": [],
+  "author": "MichalAW michal.wanta@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalAW/29.MongoDB.git/issues"
+  },
+  "homepage": "https://github.com/MichalAW/29.MongoDB.git#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
